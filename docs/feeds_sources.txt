@@ -1,0 +1,10 @@
+apn, https://aws.amazon.com/blogs/apn/feed/
+architecture, https://aws.amazon.com/blogs/architecture/feed/
+big-data, https://aws.amazon.com/blogs/big-data/feed/
+biz-prod, https://aws.amazon.com/blogs/business-productivity/feed/
+cli, https://aws.amazon.com/blogs/developer/category/programing-language/aws-cli/feed/
+compute, https://aws.amazon.com/blogs/compute/feed/
+contact-center, https://aws.amazon.com/blogs/contact-center/feed/
+containers, https://aws.amazon.com/blogs/containers/feed/
+cost-mgmt, https://aws.amazon.com/blogs/aws-cost-management/feed/
+database, https://aws.amazon.com/blogs/database/feed/

@@ -1,0 +1,34 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+<title>Test task</title>
+<meta name="description" content="My Application">
+<meta name="author" content="Your Name">
+</head>
+
+<body>
+<h2>Rss settings: <button onclick="updatePage()">Reload page</button></h2>
+
+<p style="white-space:pre-line;" id="rss_settings"></p>
+
+<h2>New rss from sources</h2>
+<p>Rss Name</p>
+<input type="text" id="source_name" name="source_name">
+<p>Sources</p>
+<textarea rows = "10" cols = "60" name = "sources" id="sources"></textarea>
+<br>
+<button type="button" onclick="setRssSettings()">Create new rss</button> 
+
+<p id="new_rss_url_label" style="display: none;">New rss URL link:</p>
+<p style="white-space:pre-line; display: none;" id="new_rss_url"></p>
+
+<script language="JavaScript" type="text/javascript"
+src="https://kjur.github.io/jsrsasign/jsrsasign-latest-all-min.js">
+</script>
+<script src="js/verifier.js"></script>
+<script src="js/userprofile.js"></script>
+</body>
+</html>
